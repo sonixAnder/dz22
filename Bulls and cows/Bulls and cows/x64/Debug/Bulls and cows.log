@@ -1,0 +1,3 @@
+﻿  Bulls and cows.cpp
+C:\Users\SSoni\OneDrive\Рабочий стол\Bulls and cows\Bulls and cows\Bulls and cows.cpp(40,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Bulls and cows.vcxproj -> C:\Users\SSoni\OneDrive\Рабочий стол\Bulls and cows\x64\Debug\Bulls and cows.exe
